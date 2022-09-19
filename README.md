@@ -8,7 +8,9 @@
 
 # FishBone Edge Gateway
 
-🚀 Fetch & Decrypt Paste on the Edge, powered by Cloudflare Workers & Rust. We deploy the service to offer a **read-only** API endpoint for Headless Users or cURL Lovers.
+🚀 Fetch & Decrypt Paste on the Edge, powered by Cloudflare Workers & Rust.
+
+We deploy the service to offer a **read-only** API endpoint for Headless Users or cURL Lovers.
 
 
 </div>
